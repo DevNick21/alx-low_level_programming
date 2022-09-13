@@ -1,6 +1,7 @@
 #include "main.h"
 #include "_putchar.c"
-// Prints _putchar
+/* Prints _putchar
+*/
 int main(void)
 {
 _putchar('_');
