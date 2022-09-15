@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * mul - multiply a parameter with another parameter.
- * Return: the result.
- */
+* mul - multiply a parameter with another parameter.
+* Return: the result.
+*/
 int mul(int a, int b)
 {
 return (a * b);
