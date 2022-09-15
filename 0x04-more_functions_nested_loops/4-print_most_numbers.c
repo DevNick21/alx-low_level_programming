@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_numbers - Prints numbers 1-10.
- * Return: Always 0.
- */
+* print_numbers - Prints numbers 1-10.
+* Return: Always 0.
+*/
 void print_most_numbers(void)
 {
 int i;
