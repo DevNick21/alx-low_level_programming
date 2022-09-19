@@ -1,10 +1,9 @@
 #include "main.h"
-
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
+* main - check the code
+*
+* Return: Always 0.
+*/
 void puts_half(char *str)
 {
 int len, n, i;
